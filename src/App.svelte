@@ -8,6 +8,7 @@
 
 <main>
   <p>Event communication.</p>
+
   <hr />
 
   <EventComponent on:message={handleMessage} />
